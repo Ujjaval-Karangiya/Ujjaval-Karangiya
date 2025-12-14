@@ -8,7 +8,7 @@
 - 🌱 Learning **Node.js, Express, MongoDB, React**
 - 💡 Interested in **APIs, Databases, Authentication & System Design**
 - 💬 Ask me about **JavaScript, Node.js, SQL, REST APIs**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: ujjavalk2401@gmail.com
 
 ---
 
@@ -47,20 +47,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjavalKarangiya&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjavalKarangiya&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌎 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://www.linkedin.com/in/uvkarangiya-it-lecm-cte/
 
 ---
 
