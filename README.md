@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I’m Ujjaval Karangiya</h1>
+<h1 align="center">Hey 👋, I'm Ujjaval Karangiya</h1>
 <h3 align="center">💻 Full Stack Developer | Backend Specialist | .NET & Angular Explorer</h3>
 
 <p align="center">
@@ -11,62 +11,95 @@
 ---
 
 ### 👋 About Me
-- 🔭 **Currently Vibing On:** Scaling **FarmEase** – an agri-tech platform with **Angular + ASP.NET Core**  
-- 🌱 **Learning:** Enterprise Architecture & System Design 🔧  
-- 💡 **Passions:** Generative AI, probability logic, high-performance APIs  
-- 💬 **Ask me about:** JS, Java, Python, secure auth systems 🛡️  
-- 📫 **Hit me up:** [ujjavalk2401@gmail.com](mailto:ujjavalk2401@gmail.com)
+<p align="center">
+✨ Turning code into magic, one commit at a time ✨
+</p>
+
+- 🔭 **Current Project:** Scaling **FarmEase** — Angular + ASP.NET Core 🐝  
+- 🌱 **Learning:** Enterprise Architecture & System Design 🧩  
+- 💡 **Passions:** Generative AI, probability logic, high-performance APIs ⚡  
+- 💬 **Ask Me About:** JS, Java, Python, secure auth systems 🛡️  
+- 📫 **Contact:** [ujjavalk2401@gmail.com](mailto:ujjavalk2401@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack ⚡
+### 🛠️ Tech Stack 💻
 
 | 💻 Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Java, Python, JS (ES6+), C#, SQL |
-| **Frontend** | Angular, React.js, Bootstrap, HTML, CSS |
-| **Backend** | ASP.NET Core, Node.js, Express.js, JWT Auth |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **Dev Tools** | Git, GitHub, Postman, Docker, VS Code |
+| **Languages** | Java ☕, Python 🐍, JS (ES6+) ✨, C#, SQL |
+| **Frontend** | Angular 🔺, React ⚛️, Bootstrap 💅, HTML, CSS |
+| **Backend** | ASP.NET Core ⚡, Node.js 🟢, Express.js, JWT Auth 🔑 |
+| **Databases** | MongoDB 🍃, MySQL 🐬, PostgreSQL 🐘 |
+| **Dev Tools** | Git 🐙, GitHub 🖤, Postman 📝, Docker 🐳, VS Code 💙 |
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🌾 **FarmEase** – Full-stack agricultural platform (Angular + ASP.NET)  
-- 🛒 **Quick Mart** – React e-commerce app with custom cart & state mgmt  
-- 🔐 **Auth System** – JWT-based secure login/signup for Node.js apps  
-- 📊 **CRUD APIs** – RESTful APIs powered by Node.js & MongoDB  
+<div align="center">
+
+| Project | Description |
+| :--- | :--- |
+| 🌾 **FarmEase** | Full-stack agri-tech platform with Angular + ASP.NET |
+| 🛒 **Quick Mart** | React e-commerce app with custom cart & state mgmt |
+| 🔐 **Auth System** | JWT-based secure login/signup Node.js |
+| 📊 **CRUD APIs** | RESTful APIs built with Node.js & MongoDB |
+
+</div>
 
 ---
 
 ### 🧩 LeetCode & Problem Solving 💡
+
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="420">
-      <a href="https://leetcode.com/u/Od8tCLfYR2/">
-        <img src="https://leetcard.jacoblin.cool/Od8tCLfYR2?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="left" width="420">
-      <h3>🎯 Current Grind</h3>
-      <ul>
-        <li><b>Total Solved:</b> 4 Problems (3 Medium / 1 Easy)</li>
-        <li><b>Main Languages:</b> Java & Python 🐍☕</li>
-        <li><b>Focus:</b> Probability logic & system design challenges</li>
-        <li><b>Daily Goal:</b> Smash at least 1 Medium-level problem 💪</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <a href="https://leetcode.com/u/Od8tCLfYR2/">
+    <img src="https://leetcard.jacoblin.cool/Od8tCLfYR2?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Stats" />
+  </a>
 </div>
 
-**⚡ Motto:** Logic 🧠 + Algorithms 🔄 + Probability 🎲  
+<p align="center">
+🎯 Current Grind: 4 Problems Solved (3 Medium / 1 Easy)  
+💬 Languages: Java & Python 🐍☕  
+💡 Focus: Probability Logic & System Design  
+🔥 Daily Goal: 1 Medium Challenge
+</p>
 
 ---
 
-### 🌐 Connect With Me
+### 👨‍💻 Current Tech Stack & Focus
+- 🔭 **Current Project:** Building **FarmEase** using **Angular** and **ASP.NET Core**.
+- 🌱 **Learning:** Deepening skills in **Node.js, Express, MongoDB, and React**.
+- 💡 **Interests:** System Design, **Generative AI** for data categorization, and **Java/Python** problem solving.
+- 💬 **Ask Me About:** JavaScript, REST APIs, or **Bootstrap** styling.
+
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript, SQL, C# |
+| **Frontend** | Angular, React, Bootstrap, HTML5, CSS3 |
+| **Backend** | ASP.NET Core, Node.js, Express, JWT Auth |
+| **Databases** | MongoDB, MySQL |
+
+---
+
+</div>
+
+---
+
+### 🛠️ Current Tech Stack & Focus
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript (ES6+), C#, SQL |
+| **Frontend** | **Angular**, React.js, Bootstrap, HTML5, CSS3 |
+| **Backend** | **ASP.NET Core**, Node.js, Express.js, JWT Auth |
+| **Projects** | **FarmEase**, Quick Mart, Auth Systems |
+
+</div>
+
+---
+
+### 🌐 Connect With Me 🌟
+
 <p align="center">
   <a href="https://www.linkedin.com/in/uvkarangiya-it-lecm-cte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -74,11 +107,14 @@
   <a href="https://github.com/UjjavalKarangiya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:ujjavalk2401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Turning code into magic, one commit at a time ✨”</i> <br>
-  ⭐ Check out my repos if you vibe with my work!
+💫 <i>"Code smart, code fast, make it shine ✨"</i> <br>
+⭐ Star my repos if you like what you see!
 </p>
