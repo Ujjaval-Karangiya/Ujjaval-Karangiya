@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Ujjaval Karangiya</h1>
-<h3 align="center">💻 Full Stack Developer | Backend Specialist | .NET & Angular Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -9,7 +8,13 @@
 </p>
 
 ---
+### Live Projects ☯️
+- farmEase : https://farmease-24.netlify.app
+- Manglam : https://hotal-seven.vercel.app/
+- Spotify Clone : https://spotify-tan-beta.vercel.app/
+- 
 
+---
 ### 👋 About Me
 <p align="center">
 ✨ Turning code into magic, one commit at a time ✨
