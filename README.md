@@ -12,7 +12,7 @@
 - farmEase : https://farmease-24.netlify.app
 - Manglam : https://hotal-seven.vercel.app/
 - Spotify Clone : https://spotify-tan-beta.vercel.app/
-- 
+- Aapki News : https://aapkinews-24.netlify.app/
 
 ---
 ### 👋 About Me
