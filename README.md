@@ -46,6 +46,7 @@
 | **🌾 FarmEase** | Angular • ASP.NET Core • SQL | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://farmease-24.netlify.app) |
 | **📰 Aapki News** | React • News API | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aapkinews-24.netlify.app/) |
 | **🧪 Practice Project** | JQueary | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trainee-project-coral.vercel.app/) |
+| **🛒 Shoping Karo** | html • css • javascript • FackStore Api | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-gilt-two.vercel.app/) |
 | **🏨 Manglam Hotel** | html • css • javascript  | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hotal-seven.vercel.app/) |
 | **🎵 Spotify Clone** | html • css • javascript  | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spotify-tan-beta.vercel.app/) |
 
