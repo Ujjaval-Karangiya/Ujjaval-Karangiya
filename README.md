@@ -1,125 +1,99 @@
-<h1 align="center">Hey 👋, I'm Ujjaval Karangiya</h1>
+<h1 align="center">Hey 👋 I'm Ujjaval Karangiya</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<h3 align="center">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
-### Live Projects ☯️
-- farmEase : https://farmease-24.netlify.app
-- Manglam : https://hotal-seven.vercel.app/
-- Spotify Clone : https://spotify-tan-beta.vercel.app/
-- Aapki News : https://aapkinews-24.netlify.app/
-
----
-### 👋 About Me
+</h3>
 <p align="center">
-✨ Turning code into magic, one commit at a time ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Angular+%2B+ASP.NET+Core+%7C+MERN;Building+Scalable+%26+Beautiful+Web+Apps;System+Design+%7C+Generative+AI" alt="Typing SVG" />
 </p>
 
-- 🔭 **Current Project:** Scaling **FarmEase** — Angular + ASP.NET Core 🐝  
-- 🌱 **Learning:** Enterprise Architecture & System Design 🧩  
-- 💡 **Passions:** Generative AI, probability logic, high-performance APIs ⚡  
-- 💬 **Ask Me About:** JS, Java, Python, secure auth systems 🛡️  
-- 📫 **Contact:** [ujjavalk2401@gmail.com](mailto:ujjavalk2401@gmail.com)
+
+### <h1 align="left">👋 About Me</h1>
+
+<h2 align="left">
+  <strong>✨ Turning ideas into elegant, high-performance applications ✨</strong>
+</h2>
+
+
+
+- 🔭 **Currently Building:** [FarmEase](https://farmease-24.netlify.app) — A modern agricultural platform (Angular + ASP.NET Core)
+- 🌱 **Currently Exploring:** Enterprise Architecture, Microservices & Advanced System Design
+- 💡 **Passions:** Generative AI, Probability & Logic, Performance Optimization, Beautiful UX
+- 💬 **Ask me about:** Angular, .NET, Clean Architecture, Secure Authentication, or DSA
+- 📫 **Reach me:** [ujjavalk2401@gmail.com](mailto:ujjavalk2401@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack 💻
+### 🛠️ Tech Stack
 
-| 💻 Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Java ☕, Python 🐍, JS (ES6+) ✨, C#, SQL |
-| **Frontend** | Angular 🔺, React ⚛️, Bootstrap 💅, HTML, CSS |
-| **Backend** | ASP.NET Core ⚡, Node.js 🟢, Express.js, JWT Auth 🔑 |
-| **Databases** | MongoDB 🍃, MySQL 🐬, PostgreSQL 🐘 |
-| **Dev Tools** | Git 🐙, GitHub 🖤, Postman 📝, Docker 🐳, VS Code 💙 |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,dotnet,nodejs,typescript,javascript,java,python,cs&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,git,github,postman,bootstrap,tailwind&theme=dark&perline=8" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Projects
 
 <div align="center">
 
-| Project | Description |
-| :--- | :--- |
-| 🌾 **FarmEase** | Full-stack agri-tech platform with Angular + ASP.NET |
-| 🛒 **Quick Mart** | React e-commerce app with custom cart & state mgmt |
-| 🔐 **Auth System** | JWT-based secure login/signup Node.js |
-| 📊 **CRUD APIs** | RESTful APIs built with Node.js & MongoDB |
+| Project | Tech Stack | Live Demo |
+|--------|------------|----------|
+| **🌾 FarmEase** | Angular • ASP.NET Core • SQL | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://farmease-24.netlify.app) |
+| **🏨 Manglam Hotel** | Angular • Modern UI | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hotal-seven.vercel.app/) |
+| **🎵 Spotify Clone** | React / Next.js | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spotify-tan-beta.vercel.app/) |
+| **📰 Aapki News** | Angular • News API | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aapkinews-24.netlify.app/) |
 
 </div>
 
 ---
 
-### 🧩 LeetCode & Problem Solving 💡
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjaval-Karangiya&theme=github-dark-blue&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+### 🧠 LeetCode Journey
+
+<p align="center">
   <a href="https://leetcode.com/u/Od8tCLfYR2/">
-    <img src="https://leetcard.jacoblin.cool/Od8tCLfYR2?theme=dark&font=Baloo_2&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Od8tCLfYR2?theme=dark&font=baloo&ext=contest" width="450" />
   </a>
-</div>
-
-<p align="center">
-🎯 Current Grind: 4 Problems Solved (3 Medium / 1 Easy)  
-💬 Languages: Java & Python 🐍☕  
-💡 Focus: Probability Logic & System Design  
-🔥 Daily Goal: 1 Medium Challenge
 </p>
 
----
-
-### 👨‍💻 Current Tech Stack & Focus
-- 🔭 **Current Project:** Building **FarmEase** using **Angular** and **ASP.NET Core**.
-- 🌱 **Learning:** Deepening skills in **Node.js, Express, MongoDB, and React**.
-- 💡 **Interests:** System Design, **Generative AI** for data categorization, and **Java/Python** problem solving.
-- 💬 **Ask Me About:** JavaScript, REST APIs, or **Bootstrap** styling.
-
-| Category | Languages & Tools |
-| :--- | :--- |
-| **Languages** | Java, Python, JavaScript, SQL, C# |
-| **Frontend** | Angular, React, Bootstrap, HTML5, CSS3 |
-| **Backend** | ASP.NET Core, Node.js, Express, JWT Auth |
-| **Databases** | MongoDB, MySQL |
-
----
-
+<div align="center">
+  <strong>⚡ Solving DSA Daily • Consistency is Key • Aiming for Knight Badge</strong>
 </div>
 
 ---
 
-### 🛠️ Current Tech Stack & Focus
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Java, Python, JavaScript (ES6+), C#, SQL |
-| **Frontend** | **Angular**, React.js, Bootstrap, HTML5, CSS3 |
-| **Backend** | **ASP.NET Core**, Node.js, Express.js, JWT Auth |
-| **Projects** | **FarmEase**, Quick Mart, Auth Systems |
-
-</div>
-
----
-
-### 🌐 Connect With Me 🌟
+### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uvkarangiya-it-lecm-cte/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/demo-09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/UjjavalKarangiya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/uvkarangiya-it-lecm-cte/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ujjavalk2401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-💫 <i>"Code smart, code fast, make it shine ✨"</i> <br>
-⭐ Star my repos if you like what you see!
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=58A6FF,1F6FEB&height=120&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=22&fontColor=ffffff" />
 </p>
+
+<h3 align="center">
+  <strong>Always learning • Always shipping • Always improving</strong>
+</h3>
