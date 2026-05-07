@@ -93,10 +93,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=58A6FF,1F6FEB&height=120&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=22&fontColor=ffffff" />
-</p>
-
 <h3 align="center">
   <strong>Always learning • Always shipping • Always improving</strong>
 </h3>
