@@ -44,6 +44,7 @@
 | Project | Tech Stack | Live Demo |
 |--------|------------|----------|
 | **🌾 FarmEase** | Angular • ASP.NET Core • SQL | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://farmease-24.netlify.app) |
+| **💬 Chatify** | MERN stack | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatify-frontend-sigma.vercel.app/) |
 | **📰 Aapki News** | React • News API | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aapki-news.vercel.app/) |
 | **🔲 User Management** | Node.js • Express • ejs | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dash-board-git-main-ujjaval-karangiya-s-projects.vercel.app/) |
 | **🧪 Practice Project** | JQueary | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trainee-project-coral.vercel.app/) |
